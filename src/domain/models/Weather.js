@@ -1,9 +1,9 @@
 class Weather {
   constructor (data) {
     this.pressure = data.pressure
-    this.temperature = data.temperature
-    this.temperatureMin = data.temperatureMin
-    this.temperatureMax = data.temperatureMax
+    this.temperature = data.temp
+    this.temperatureMin = data.temp_min
+    this.temperatureMax = data.temp_max
   }
 }
 
