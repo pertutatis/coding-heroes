@@ -16,9 +16,11 @@ export default {
     HelloWorld
   },
   async created () {
-    let response = await getCurrentWeather()
+    let valenciaWeather = await getCurrentWeather('valencia')
+    let barcelonaWeather = await getCurrentWeather('barcelona')
 
-    console.log(response)
+    console.log(valenciaWeather)
+    console.log(barcelonaWeather)
   }
 }
 </script>
