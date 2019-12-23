@@ -1,8 +1,8 @@
 TO DO:
 
 - [x] Vue-cli
-- [ ] Crear el servicio de http
-- [ ] Repositorio
-- [ ] Conectar a una API, IGDB, y coger datos
+- [x] Crear el servicio de http
+- [x] Repositorio
+- [x] Conectar a una API, --IGDB-- OpenWeather, y coger datos
 - [ ] Meter librería de componentes
 - [ ] Unit & E2E testing 
