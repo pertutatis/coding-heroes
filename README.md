@@ -1,39 +1,7 @@
-# coding-heroes
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Run your end-to-end tests
-```
-yarn run test:e2e
-```
-
-### Run your unit tests
-```
-yarn run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+TO DO:
+√ Vue-cli
+* Crear el servicio de http
+* Repositorio
+* Conectar a una API, IGDB, y coger datos
+* Meter librería de componentes
+* Unit & E2E testing 
